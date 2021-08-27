@@ -1,0 +1,203 @@
+<?php 
+require_once '../../config/ini.php'; 
+require_once '../../config/image.php'; 
+
+$parent_table = $_GET['parent_table'];//albums
+$parent_id = $_GET["parent_id"];
+
+$action = 'photos.php?parent_table='.$_GET['parent_table'].'&parent_id='.$_GET['parent_id'];
+
+if($_POST['submit']=='Save'){
+	$data['id']=$_POST['id'];
+	$data['video']=$_POST['video'];
+	$data['position']=$_POST['position'];
+	if(sql_save('photos', $data)){
+		$save='<span id="save" style="color:green;">Photo saved</span>';	
+	}else{
+		$save='<span id="save" style="color:red;">Photo not save</span>';	
+	}
+}elseif($_POST['submit']=='Delete'){
+	if($img->remove_image('photos', 'photo', $_POST['id'])){
+		deleteData($conn, 'photos', "id='".$_POST['id']."'");
+		$save='<span id="save" style="color:green;">Photo deleted</span>';	
+	}else{
+		$save='<span id="save" style="color:red;">Photo not deleted</span>';	
+	}
+}elseif($_POST['submit']=='Add'){
+	
+	$save='<span id="save" style="color:green;">Photo saved</span>';	
+	$data['module']=$parent_table;
+	$data['parent_id']=$parent_id;
+	$data['video']=$_POST['video'];
+	$data['position']=$_POST['position'];
+	//$data['caption']=$_POST['caption'];
+	
+	if(!empty($_FILES['photo'])){
+		if(sql_save('photos', $data)){
+			$last_album = readFirst($conn, 'photos', "", "id desc");
+			if($img->upload_image($_FILES['photo'], 'photos', 'photo', $last_album['id'])){
+				$save='<span id="save" style="color:green;">Photo saved</span>';	
+			}
+		}
+	}elseif(!empty($data['video'])){
+		if(sql_save('photos', $data)){
+			$save='<span id="save" style="color:green;">Photo saved</span>';	
+		}
+	}
+	
+}
+
+if(!empty($parent_table) && !empty($parent_id)){
+	$photos = sql_read('select * from photos where module =? AND parent_id=? order by position ASC, id DESC','ss', array($parent_table, $parent_id));
+}
+?>
+<link href="../css/bootstrap.css<?php echo $version?>" rel="stylesheet">
+<link href="../css/custom.css<?php echo $version?>" rel="stylesheet">
+<script src="<?php echo ROOT?>js/datepicker/jquery-1.12.4.js<?php echo $version?>"></script>
+<script src="<?php echo ROOT?>js/datepicker/jquery-ui.js<?php echo $version?>"></script>
+
+<style>
+#save { z-index:2000; position:fixed; margin:0 40%; width:20%; box-shadow:1px 1px 3px #999; padding:10px 20px; background-color: #FFFFFF;}
+.glyphicon-facetime-video, .glyphicon-picture{ color:#999;}
+.first_block, .photo_block { 
+	position:relative; display:inline-block; width:180px; height:220px; margin:4px; text-align:center; vertical-align:top; font-size:12px;
+}
+.first_block {width:260px;}
+.photo_block {background:#F1F1F1; border:1px solid #CCC; padding:10px; box-shadow:1px 1px 3px #999;
+}
+.tab { 
+	width:40%; background-color:#EAEAEA; border:1px solid #E1D1D1; padding:5px 15px; border-radius: 4px 4px 0 0; 
+	position:relative; top:2px; z-index:999; transition:background-color 0.5s;
+}
+.tab:hover {background-color:#FFF;}
+
+.tab_active {z-index:1001;background-color:#FFF; padding-top:5px; border-bottom:none;	}
+.tab_body {  z-index:1000; height:191px; box-shadow:1px 1px 3px #999;
+	background:#FFF;border:1px solid #D3D3D3; padding:10px 0 10px 0;
+	border-radius:4px; position:relative; display:inline-block; width:100%;
+}
+input, textarea {width:100%;}
+</style>
+<div>
+	
+	<?php if(!empty($save)) echo $save;?>
+	<div>
+        <div class="first_block">
+            <div id="tab_video" class="btn btn-sm btn-default tab tab_active" onclick="toggleImageVideo('#tab_video','#tab_photo');">
+                <span class="glyphicon glyphicon-picture"></span> Image
+            </div>
+            <div id="tab_photo" class="btn btn-sm btn-default tab " onclick="toggleImageVideo('#tab_photo','#tab_video');">
+                <span class="glyphicon glyphicon-facetime-video"></span> Video
+            </div>
+        	<div class="tab_body">
+            
+                <form action="<?php echo $action?>" method="post" enctype="multipart/form-data">
+                    <div class="col-lg-12" id="photo">
+                        <label><span class="glyphicon glyphicon-plus"></span> Photo</label>
+                        <input type="file" name="photo" />
+                        <div class="red">
+                            Recommended size: 500 x 500 pixel.<br />
+							Format: jpg, gif or png.
+                        </div>
+                    </div>
+                    <div class="col-lg-12" id="video" style="display:none;">
+                        <label><span class="glyphicon glyphicon-plus"></span> Video</label>
+                        <textarea name="video" placeholder="Paste your embed video here" style="height:44px;"/></textarea>
+                        <div class="red">
+                            Upload video to youtube or vimeo, in youtube page click share & embed, copy the code & paste it above.
+                        </div>
+                    </div>
+                    <!--<div class="col-lg-12">
+                        <input type="text" name="caption" placeholder="Caption" />
+                    </div>-->
+                    <div class="col-lg-12" style="margin-top:5px;">
+                    	Position:
+                        <input type="number" name="position" maxlength="3" style="width:50px;" />
+                        <input type="submit" name="submit" value="Add" style="width:33%;">
+                    </div>
+                </form>
+            </div>
+        </div>
+
+		<?php foreach((array)$photos as $photo){?>
+            <div class="photo_block">
+                <form action="<?php echo $action?>" method="post" enctype="multipart/form-data">
+                    <div class="col-lg-12" style="margin-top:5px; height:120px;">
+                        <input type="hidden" name="id" value="<?php echo $photo['id'];?>"/>
+                    	<?php if(!empty($photo['video'])){?>
+                        	<span class="glyphicon glyphicon-facetime-video"></span> Video<br />
+                            <textarea name="video" style="height:100px;"><?php echo $photo['video'];?></textarea>
+                        <?php }else{?>
+                        	<span class="glyphicon glyphicon-picture"></span> Photo<br />
+							<img src="../../<?php echo $photo['photo'];?>" class="img-responsive" style="margin:0 auto; max-height:100px;"/>
+                        <?php }?>
+                        
+                    </div>
+                    <div class="col-lg-12" style="margin-top:5px;">
+                        Position: <input type="number" name="position" value="<?php echo $photo['position'];?>" style="width:50px;" />
+                    </div>
+                    <div class="col-lg-12" style="margin-top:5px;">
+                        <input type="submit" name="submit" value="Save" style="width:44%;">
+                        <input type="submit" name="submit" value="Delete" style="width:44%;">
+                    </div>
+                </form>
+            </div>
+		<?php }?>
+        
+	</div>
+</div>
+
+
+
+<script>
+
+function toggleImageVideo(active, inactive){
+	$("#photo").toggle();
+	$("#video").toggle();
+	$(active).addClass("tab_active");
+	$(inactive).removeClass("tab_active");
+}
+
+function fadeSaveResult(){
+	$("#save").delay(2000).fadeOut();	
+}
+fadeSaveResult();
+
+function saveTag(){
+	var new_photo = $("#new_photo")[0].files[0];
+	
+	alert(new_photo.tmp_name);
+	
+	$.post(
+		"layout/photos.php", 
+		{submit:'save', new_photo_tmp_name:new_photo.tmp_name, new_photo_type:new_photo.type, sss:'sss'}, 
+		function(result) {$("#photos_module").html(result);}
+	);
+}
+
+function toggleEdit(){
+	$("#edit_area").fadeToggle();
+}
+
+function toggleCheck(val, eID, checked, uncheck){
+	var v=$("#photos_input").val();
+	var vl='';
+	
+	if($(eID).hasClass("photos_selected")){//alert('uncheck it');
+		$(eID).removeClass("photos_selected");
+		$(checked).hide();
+		$(uncheck).fadeIn();
+		vl = v.replace(","+val,"").replace(val,"").replace(/^,/, '');
+		$("#photos_input").val(vl);
+		
+	}else{//alert('check it');
+		$(eID).addClass("photos_selected");
+		$(checked).fadeIn();
+		$(uncheck).hide();
+		
+		if(v==''){ vl=val;}else{vl=v+","+val;}
+		$("#photos_input").val(vl);
+	}
+	
+}
+</script> 

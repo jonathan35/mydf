@@ -1,0 +1,135 @@
+body {
+    color:#333; 
+    font-family: Montserrat;
+    overflow-x:hidden
+}
+
+h1 { }
+a {
+    
+    color: #007bff;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+
+input[type=submit], .btn-pink {
+    margin:0 auto; padding:22px 50px; min-width:250px; height:44px; border-radius:10px; background-color: rgba(243,39,88,255); color:white; font-size:22px; line-height: 0; border:none; 
+}
+
+.form-pink-shadow {
+    color:#666;
+}
+input[type=text], input[type=email], input[type=number], input[type=password], select, textarea, input[type=checkbox] {
+    border-radius:10px;
+    padding:6px 12px;
+    border:1px solid #E1E1E1;
+    box-shadow: 1px 2px 3px rgba(0,0,0,.2);
+    width:100%;
+    color:#666;
+}
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+select::-ms-expand {display: none;}
+select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    text-indent: 1px;
+    text-overflow: '';    
+    background-image: url('../images/keyboard_arrow_down-black-18dp.svg');
+    background-repeat:no-repeat;
+    background-position: 98% ;   
+}
+
+.password_text_toggle {
+    overflow: visible;
+    position: relative;
+    left: -10px;
+    top: -38px;
+    z-index:10;
+    display: inline-block;
+    float: right;
+    width:16px;
+    height: 16px;    
+    content: url('../images/remove_red_eye-black-18dp.svg');
+}
+
+/*
+input[type=password] {
+    background-image: url('../images/remove_red_eye-black-18dp.svg');
+    background-repeat:no-repeat;
+    background-position: 98% ;
+    padding-right:30px;    
+}
+
+input[type=checkbox] + label {
+    display: block;
+    margin: 0.2em;
+    cursor: pointer;
+    padding: 0.2em;
+}*/
+
+input[type=checkbox] {
+    display: inline-block;
+    width:auto;
+}
+
+/*
+input[type=checkbox] {
+    display: none;
+}
+input[type=checkbox] + label:before {
+    content: "\2714";
+    border:1px solid #CCC;
+    box-shadow: 1px 2px 3px rgba(0,0,0,.2);
+    border-radius:5px;
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    padding-left: 0.3em;
+    padding-bottom: 0.3em;
+    margin-right: 0.5em;
+    vertical-align: bottom;
+    color: transparent;
+    transition: .2s;
+}
+
+input[type=checkbox] + label:active:before {
+    transform: scale(0);
+}
+
+input[type=checkbox]:checked + label:before {
+    background-color: MediumSeaGreen;
+    border-color: MediumSeaGreen;
+    color: #fff;
+}
+
+input[type=checkbox]:disabled + label:before {
+    transform: scale(1);
+    border-color: #aaa;
+}
+
+input[type=checkbox]:checked:disabled + label:before {
+    transform: scale(1);
+    background-color: #bfb;
+    border-color: #bfb;
+}
+*/
+.montserrat { font-family: Montserrat; color:red;}
+
+.block-round {
+    border-radius:10px; border:1px solid #EEE;
+    box-shadow: 2px 2px 3px rgba(0,0,0,.1); padding:50px 10%;
+}
+.bg-lightgray {background-color:#EFEFEF;}
+.bg-white {background-color:white;}

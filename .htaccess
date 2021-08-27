@@ -1,0 +1,67 @@
+#suPHP_ConfigPath /home/kuching3/public_html/beta
+DirectoryIndex index.htm index.html index.php
+Options -Indexes
+
+Header set X-XSS-Protection "1; mode=block"
+Header set X-Content-Type-Options nosniff
+Header always append X-Frame-Options SAMEORIGIN
+
+AddDefaultCharset UTF-8
+DefaultLanguage en-us
+
+#php_flag display_startup_errors on
+#php_flag display_errors off
+#php_flag html_errors on
+#php_flag log_errors on
+#php_value error_log  /home/hotelcom/grocere.com.my/errors.log
+
+RewriteEngine On
+RewriteCond %{HTTPS} !=on
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301,NE] 
+
+
+RewriteRule ^home?$ index.php [QSA,L]
+RewriteRule ^contact_us?$ contact_us.php [QSA,L]
+RewriteRule ^news?$ news.php [QSA,L]
+RewriteRule ^products?$ products.php [QSA,L]
+RewriteRule ^product_details/([^/\.]+)?$ product_details.php?p=$1 [QSA,L]
+
+
+RewriteRule ^page/([^/\.]+)?$ page.php?t=$1
+
+# BEGIN cPanel-generated php ini directives, do not edit
+# Manual editing of this file may result in unexpected behavior.
+# To make changes to this file, use the cPanel MultiPHP INI Editor (Home >> Software >> MultiPHP INI Editor)
+# For more information, read our documentation (https://go.cpanel.net/EA4ModifyINI)
+<IfModule php7_module>
+   php_flag display_errors Off
+   php_value max_execution_time 5000
+   php_value max_input_time 5000
+   php_value max_input_vars 5000
+   php_value memory_limit -1
+   php_value post_max_size 8M
+   php_value session.gc_maxlifetime 1440
+   php_value session.save_path "/var/cpanel/php/sessions/ea-php72"
+   php_value upload_max_filesize 2M
+   php_flag zlib.output_compression On
+</IfModule>
+<IfModule lsapi_module>
+   php_flag display_errors Off
+   php_value max_execution_time 5000
+   php_value max_input_time 5000
+   php_value max_input_vars 5000
+   php_value memory_limit -1
+   php_value post_max_size 8M
+   php_value session.gc_maxlifetime 1440
+   php_value session.save_path "/var/cpanel/php/sessions/ea-php72"
+   php_value upload_max_filesize 2M
+   php_flag zlib.output_compression On
+</IfModule>
+# END cPanel-generated php ini directives, do not edit
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# Set the “ea-php72” package as the default “PHP” programming language.
+<IfModule mime_module>
+  AddHandler application/x-httpd-ea-php72 .php .php7 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit

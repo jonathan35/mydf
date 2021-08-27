@@ -1,0 +1,41 @@
+.col, label, .div_input {
+	display:inline-block; float: left; position: relative; min-height: 1px;  box-sizing: border-box; padding-right: 15px; padding-left: 15px;font-size:12px;
+}
+.col {
+	width:auto;
+}
+label {
+	width:20%;
+	text-transform:capitalize;	
+}
+.div_input {
+	width:80%;
+}
+.div_input input{
+	width:100%;
+}
+input[type=submit] {
+	padding:3px 15px;
+}
+.def_img_bg {
+	width:100px; 
+	max-height:100px; 
+	min-height:60px;
+	background-image:url(../../images/no_image.jpg);
+	background-size:cover;
+	background-position:center center;
+}
+
+.tr {
+	/*width:100%;
+	vertical-align:top;
+	
+	*/
+	border-top:1px solid #CCC;
+	padding:8px 10px;
+}
+.tr:nth-child(even) {
+	background-color:#F2F2F2;
+	padding:4px 8px;
+
+}

@@ -1,0 +1,1130 @@
+[19-Sep-2014 10:41:42 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 468
+[19-Sep-2014 10:41:42 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 469
+[19-Sep-2014 10:41:42 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 563
+[19-Sep-2014 10:41:42 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 564
+[19-Sep-2014 10:45:25 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 468
+[19-Sep-2014 10:45:25 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 469
+[19-Sep-2014 10:45:25 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 563
+[19-Sep-2014 10:45:25 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 564
+[22-Sep-2014 09:15:46 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 09:15:46 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 09:15:46 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 09:15:51 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 468
+[22-Sep-2014 09:15:51 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 469
+[22-Sep-2014 09:15:51 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 563
+[22-Sep-2014 09:15:51 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 564
+[22-Sep-2014 09:28:54 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 09:28:54 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 09:28:54 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 09:29:03 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 09:29:03 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 09:29:03 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 09:29:13 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 468
+[22-Sep-2014 09:29:13 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 469
+[22-Sep-2014 09:29:13 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 563
+[22-Sep-2014 09:29:13 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 564
+[22-Sep-2014 09:29:20 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 09:29:20 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 09:29:20 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 09:29:21 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 468
+[22-Sep-2014 09:29:21 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 469
+[22-Sep-2014 09:29:21 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 563
+[22-Sep-2014 09:29:21 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 564
+[22-Sep-2014 09:29:24 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 09:29:24 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 09:29:24 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 09:29:32 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 468
+[22-Sep-2014 09:29:32 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 469
+[22-Sep-2014 09:29:32 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 563
+[22-Sep-2014 09:29:32 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 564
+[22-Sep-2014 09:53:51 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 09:53:51 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 09:53:51 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 09:53:51 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 09:53:55 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 468
+[22-Sep-2014 09:53:55 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 469
+[22-Sep-2014 09:53:55 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 563
+[22-Sep-2014 09:53:55 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 564
+[22-Sep-2014 09:53:59 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 09:53:59 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 09:53:59 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 09:53:59 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 09:54:07 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 09:54:07 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 09:54:07 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 09:54:07 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 09:54:09 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 468
+[22-Sep-2014 09:54:09 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 469
+[22-Sep-2014 09:54:09 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 563
+[22-Sep-2014 09:54:09 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 564
+[22-Sep-2014 09:54:15 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 09:54:15 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 09:54:15 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 09:54:15 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 09:54:19 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 468
+[22-Sep-2014 09:54:19 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 469
+[22-Sep-2014 09:54:19 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 563
+[22-Sep-2014 09:54:19 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 564
+[22-Sep-2014 09:54:32 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 09:54:32 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 09:54:32 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 09:54:32 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 11:12:17 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 11:12:17 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 11:12:17 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 11:12:17 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 13:34:01 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 13:34:01 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 13:34:01 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 13:34:01 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 13:34:09 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 13:34:09 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 13:34:09 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 13:34:45 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 13:34:45 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 13:34:45 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 13:35:00 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 13:35:00 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 13:35:00 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 13:37:05 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 468
+[22-Sep-2014 13:37:05 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 469
+[22-Sep-2014 13:37:05 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 563
+[22-Sep-2014 13:37:05 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 564
+[22-Sep-2014 13:37:59 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 13:37:59 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 13:37:59 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 13:38:24 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 13:38:24 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 13:38:24 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 13:38:35 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 13:38:35 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 13:38:35 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 13:38:46 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 13:38:46 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 13:38:46 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 13:38:54 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 13:38:54 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 13:38:54 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 13:38:58 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 13:38:58 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 13:38:58 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 13:39:03 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 13:39:03 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 13:39:03 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 13:39:12 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 13:39:12 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 13:39:18 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 14:43:41 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 14:43:41 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 14:43:55 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 14:43:56 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[22-Sep-2014 14:43:56 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[22-Sep-2014 14:43:56 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[22-Sep-2014 14:44:01 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 14:44:04 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 468
+[22-Sep-2014 14:44:04 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 469
+[22-Sep-2014 14:44:04 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 563
+[22-Sep-2014 14:44:04 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 564
+[22-Sep-2014 14:44:15 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[22-Sep-2014 14:44:19 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 468
+[22-Sep-2014 14:44:19 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 469
+[22-Sep-2014 14:44:19 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 563
+[22-Sep-2014 14:44:19 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 564
+[22-Sep-2014 14:44:21 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[22-Sep-2014 14:44:21 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[22-Sep-2014 14:44:21 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[22-Sep-2014 15:58:31 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 468
+[22-Sep-2014 15:58:31 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 469
+[22-Sep-2014 15:58:31 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 563
+[22-Sep-2014 15:58:31 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 564
+[24-Sep-2014 09:45:12 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[24-Sep-2014 09:45:13 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[24-Sep-2014 09:45:13 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[24-Sep-2014 09:45:13 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[24-Sep-2014 09:45:13 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[24-Sep-2014 09:45:15 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[24-Sep-2014 09:45:24 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[24-Sep-2014 09:45:37 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[24-Sep-2014 09:45:54 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[24-Sep-2014 09:46:24 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[24-Sep-2014 09:46:44 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[24-Sep-2014 09:46:50 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[24-Sep-2014 09:46:50 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[24-Sep-2014 09:46:50 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[24-Sep-2014 09:46:50 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[24-Sep-2014 09:46:50 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[24-Sep-2014 09:47:07 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[24-Sep-2014 09:47:07 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[24-Sep-2014 09:47:07 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[24-Sep-2014 09:47:07 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[24-Sep-2014 09:47:14 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[24-Sep-2014 09:47:14 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[24-Sep-2014 09:47:14 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[24-Sep-2014 09:47:16 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[24-Sep-2014 09:47:16 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[24-Sep-2014 09:47:16 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[24-Sep-2014 09:47:16 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[24-Sep-2014 10:00:18 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[24-Sep-2014 10:00:18 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[24-Sep-2014 10:00:18 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[24-Sep-2014 20:19:18 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[24-Sep-2014 20:19:18 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[24-Sep-2014 20:19:18 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[24-Sep-2014 20:19:28 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[24-Sep-2014 20:19:28 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[24-Sep-2014 20:19:28 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[24-Sep-2014 20:19:29 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[24-Sep-2014 20:19:29 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[24-Sep-2014 20:19:29 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[24-Sep-2014 20:19:29 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[29-Sep-2014 10:20:54 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[29-Sep-2014 10:20:54 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[29-Sep-2014 10:20:54 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[29-Sep-2014 10:20:57 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[29-Sep-2014 10:20:57 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[29-Sep-2014 10:20:57 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[29-Sep-2014 10:20:57 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[29-Sep-2014 10:23:38 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[29-Sep-2014 10:23:38 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[29-Sep-2014 10:23:38 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[29-Sep-2014 10:23:38 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[29-Sep-2014 10:37:05 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[29-Sep-2014 10:37:05 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[29-Sep-2014 10:37:05 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[29-Sep-2014 10:37:05 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[29-Sep-2014 10:37:11 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[29-Sep-2014 10:37:19 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[29-Sep-2014 10:37:42 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[29-Sep-2014 10:37:42 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[29-Sep-2014 10:37:42 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[29-Sep-2014 10:37:42 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[29-Sep-2014 10:38:03 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 468
+[29-Sep-2014 10:38:03 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 469
+[29-Sep-2014 10:38:03 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 563
+[29-Sep-2014 10:38:03 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 564
+[29-Sep-2014 10:38:09 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 468
+[29-Sep-2014 10:38:09 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 469
+[29-Sep-2014 10:38:09 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 563
+[29-Sep-2014 10:38:09 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 564
+[29-Sep-2014 10:38:11 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 468
+[29-Sep-2014 10:38:11 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 469
+[29-Sep-2014 10:38:11 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 563
+[29-Sep-2014 10:38:11 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 564
+[29-Sep-2014 10:38:18 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 468
+[29-Sep-2014 10:38:18 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 469
+[29-Sep-2014 10:38:18 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 563
+[29-Sep-2014 10:38:18 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 564
+[29-Sep-2014 10:38:22 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 468
+[29-Sep-2014 10:38:22 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 469
+[29-Sep-2014 10:38:22 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 563
+[29-Sep-2014 10:38:22 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 564
+[29-Sep-2014 10:42:01 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[29-Sep-2014 10:42:01 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[29-Sep-2014 10:42:01 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[29-Sep-2014 10:49:53 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[29-Sep-2014 10:49:53 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[29-Sep-2014 10:52:04 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[29-Sep-2014 11:00:45 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[29-Sep-2014 11:02:34 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[29-Sep-2014 11:03:22 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[29-Sep-2014 11:03:22 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[29-Sep-2014 11:03:22 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[29-Sep-2014 11:33:41 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[29-Sep-2014 11:33:41 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[29-Sep-2014 11:34:14 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[29-Sep-2014 11:34:14 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[29-Sep-2014 11:35:16 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[29-Sep-2014 11:39:29 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 468
+[29-Sep-2014 11:39:29 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 469
+[29-Sep-2014 11:39:29 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 563
+[29-Sep-2014 11:39:29 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 564
+[29-Sep-2014 11:40:40 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[29-Sep-2014 11:40:49 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[29-Sep-2014 11:40:54 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[29-Sep-2014 11:41:04 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[29-Sep-2014 11:41:09 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[29-Sep-2014 11:41:16 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 468
+[29-Sep-2014 11:41:16 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 469
+[29-Sep-2014 11:41:16 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 563
+[29-Sep-2014 11:41:16 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 564
+[29-Sep-2014 11:41:31 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[29-Sep-2014 12:22:46 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[29-Sep-2014 12:22:47 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[29-Sep-2014 12:22:47 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[29-Sep-2014 12:22:47 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[29-Sep-2014 13:25:12 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[29-Sep-2014 18:01:18 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[02-Oct-2014 10:07:51 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[02-Oct-2014 10:08:57 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[02-Oct-2014 10:08:57 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[02-Oct-2014 10:08:57 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[02-Oct-2014 10:08:57 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[02-Oct-2014 10:09:31 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[02-Oct-2014 10:09:31 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[02-Oct-2014 10:09:31 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[02-Oct-2014 10:09:31 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[02-Oct-2014 10:20:06 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 468
+[02-Oct-2014 10:20:06 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 469
+[02-Oct-2014 10:20:06 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 563
+[02-Oct-2014 10:20:06 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 564
+[02-Oct-2014 10:20:33 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 468
+[02-Oct-2014 10:20:33 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 469
+[02-Oct-2014 10:20:33 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 563
+[02-Oct-2014 10:20:33 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 564
+[02-Oct-2014 10:21:04 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 468
+[02-Oct-2014 10:21:04 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 469
+[02-Oct-2014 10:21:04 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 563
+[02-Oct-2014 10:21:04 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 564
+[02-Oct-2014 10:21:22 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 468
+[02-Oct-2014 10:21:22 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 469
+[02-Oct-2014 10:21:22 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 563
+[02-Oct-2014 10:21:22 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 564
+[02-Oct-2014 10:21:24 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 468
+[02-Oct-2014 10:21:24 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 469
+[02-Oct-2014 10:21:24 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 563
+[02-Oct-2014 10:21:24 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 564
+[02-Oct-2014 10:21:25 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 468
+[02-Oct-2014 10:21:25 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 469
+[02-Oct-2014 10:21:25 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 563
+[02-Oct-2014 10:21:25 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 564
+[02-Oct-2014 10:21:30 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 468
+[02-Oct-2014 10:21:30 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 469
+[02-Oct-2014 10:21:30 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 563
+[02-Oct-2014 10:21:30 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 564
+[02-Oct-2014 10:21:31 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 468
+[02-Oct-2014 10:21:31 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 469
+[02-Oct-2014 10:21:31 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 563
+[02-Oct-2014 10:21:31 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 564
+[02-Oct-2014 10:21:34 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 468
+[02-Oct-2014 10:21:34 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 469
+[02-Oct-2014 10:21:34 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 563
+[02-Oct-2014 10:21:34 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 564
+[02-Oct-2014 10:21:36 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 468
+[02-Oct-2014 10:21:36 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 469
+[02-Oct-2014 10:21:36 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 563
+[02-Oct-2014 10:21:36 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 564
+[02-Oct-2014 10:21:38 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 468
+[02-Oct-2014 10:21:38 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 469
+[02-Oct-2014 10:21:38 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 563
+[02-Oct-2014 10:21:38 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 564
+[02-Oct-2014 10:21:40 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 468
+[02-Oct-2014 10:21:40 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 469
+[02-Oct-2014 10:21:40 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 563
+[02-Oct-2014 10:21:40 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 564
+[02-Oct-2014 10:21:42 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 468
+[02-Oct-2014 10:21:42 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 469
+[02-Oct-2014 10:21:42 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 563
+[02-Oct-2014 10:21:42 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 564
+[02-Oct-2014 10:21:43 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 468
+[02-Oct-2014 10:21:43 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 469
+[02-Oct-2014 10:21:43 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 563
+[02-Oct-2014 10:21:43 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 564
+[02-Oct-2014 10:21:47 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 468
+[02-Oct-2014 10:21:47 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 469
+[02-Oct-2014 10:21:47 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 563
+[02-Oct-2014 10:21:47 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 564
+[02-Oct-2014 10:21:49 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 468
+[02-Oct-2014 10:21:49 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 469
+[02-Oct-2014 10:21:49 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 563
+[02-Oct-2014 10:21:49 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 564
+[02-Oct-2014 10:21:51 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 468
+[02-Oct-2014 10:21:51 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 469
+[02-Oct-2014 10:21:51 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 563
+[02-Oct-2014 10:21:51 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 564
+[03-Oct-2014 15:14:03 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[03-Oct-2014 15:14:03 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[03-Oct-2014 15:14:03 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[03-Oct-2014 15:14:03 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[03-Oct-2014 15:14:03 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[03-Oct-2014 15:14:03 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[03-Oct-2014 15:14:03 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[03-Oct-2014 15:14:03 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[03-Oct-2014 15:14:07 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 468
+[03-Oct-2014 15:14:07 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 469
+[03-Oct-2014 15:14:07 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 563
+[03-Oct-2014 15:14:07 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 564
+[03-Oct-2014 15:14:14 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[03-Oct-2014 15:14:14 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[03-Oct-2014 15:14:14 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[03-Oct-2014 15:14:14 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[03-Oct-2014 15:14:15 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[03-Oct-2014 15:14:15 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[03-Oct-2014 15:14:15 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[03-Oct-2014 15:14:15 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[03-Oct-2014 15:14:26 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 468
+[03-Oct-2014 15:14:26 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 469
+[03-Oct-2014 15:14:26 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 563
+[03-Oct-2014 15:14:26 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 564
+[03-Oct-2014 15:14:30 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[03-Oct-2014 15:14:30 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[03-Oct-2014 15:14:30 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[03-Oct-2014 15:14:30 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[03-Oct-2014 15:14:31 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[03-Oct-2014 15:14:31 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[03-Oct-2014 15:14:31 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[03-Oct-2014 15:14:31 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[03-Oct-2014 15:14:43 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 468
+[03-Oct-2014 15:14:43 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 469
+[03-Oct-2014 15:14:43 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 563
+[03-Oct-2014 15:14:43 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 564
+[03-Oct-2014 15:23:27 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[03-Oct-2014 15:23:27 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[03-Oct-2014 15:23:27 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[03-Oct-2014 15:23:27 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[03-Oct-2014 15:23:28 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[03-Oct-2014 15:23:28 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[03-Oct-2014 15:23:28 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[03-Oct-2014 15:23:28 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[03-Oct-2014 15:25:40 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 468
+[03-Oct-2014 15:25:40 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 469
+[03-Oct-2014 15:25:40 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 564
+[03-Oct-2014 15:25:40 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 565
+[03-Oct-2014 15:25:49 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[03-Oct-2014 15:25:49 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[03-Oct-2014 15:25:49 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[03-Oct-2014 15:25:49 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[03-Oct-2014 15:25:50 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[03-Oct-2014 15:25:50 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[03-Oct-2014 15:25:50 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[03-Oct-2014 15:25:50 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[03-Oct-2014 15:25:52 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 468
+[03-Oct-2014 15:25:52 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 469
+[03-Oct-2014 15:25:52 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 564
+[03-Oct-2014 15:25:52 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 565
+[03-Oct-2014 15:25:56 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[03-Oct-2014 15:25:56 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[03-Oct-2014 15:25:56 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[03-Oct-2014 15:25:56 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[03-Oct-2014 15:25:56 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[03-Oct-2014 15:25:56 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[03-Oct-2014 15:25:56 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[03-Oct-2014 15:25:56 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[03-Oct-2014 15:25:59 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 468
+[03-Oct-2014 15:25:59 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 469
+[03-Oct-2014 15:25:59 Asia/Kuala_Lumpur] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 564
+[03-Oct-2014 15:25:59 Asia/Kuala_Lumpur] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/sassysigns/public_html/cms/delivery/order_form.php on line 565
+[03-Oct-2014 15:31:42 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[03-Oct-2014 15:31:42 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[03-Oct-2014 15:31:42 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[03-Oct-2014 15:31:42 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[03-Oct-2014 15:31:43 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[03-Oct-2014 15:31:43 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[03-Oct-2014 15:31:43 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[03-Oct-2014 15:31:43 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[03-Oct-2014 15:31:54 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[03-Oct-2014 15:31:54 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[03-Oct-2014 15:31:54 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[03-Oct-2014 15:31:54 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[03-Oct-2014 15:31:55 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[03-Oct-2014 15:31:55 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[03-Oct-2014 15:31:55 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[03-Oct-2014 15:31:55 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[03-Oct-2014 15:34:08 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[03-Oct-2014 15:34:08 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[03-Oct-2014 15:34:08 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[03-Oct-2014 15:34:08 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[03-Oct-2014 15:34:08 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[03-Oct-2014 15:34:08 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[03-Oct-2014 15:34:08 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[03-Oct-2014 15:34:08 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[03-Oct-2014 15:39:30 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[03-Oct-2014 15:39:30 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[03-Oct-2014 15:39:30 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[03-Oct-2014 15:39:30 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[03-Oct-2014 15:39:30 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[03-Oct-2014 15:39:30 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[03-Oct-2014 15:39:30 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[03-Oct-2014 15:39:30 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[06-Oct-2014 13:04:55 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[06-Oct-2014 13:05:40 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[06-Oct-2014 13:05:56 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[06-Oct-2014 13:06:06 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[06-Oct-2014 13:10:18 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[06-Oct-2014 15:36:15 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[06-Oct-2014 15:36:15 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[06-Oct-2014 15:36:15 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[06-Oct-2014 15:36:15 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[06-Oct-2014 15:36:15 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[06-Oct-2014 15:36:36 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[06-Oct-2014 15:36:36 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[06-Oct-2014 15:36:36 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[06-Oct-2014 15:36:36 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[06-Oct-2014 15:36:36 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[06-Oct-2014 15:39:06 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[06-Oct-2014 15:39:06 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[06-Oct-2014 15:39:06 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[06-Oct-2014 15:39:06 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[06-Oct-2014 15:39:06 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[06-Oct-2014 15:41:16 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[06-Oct-2014 15:41:16 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[06-Oct-2014 15:41:16 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[06-Oct-2014 15:41:16 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[06-Oct-2014 15:54:38 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[06-Oct-2014 15:54:38 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[06-Oct-2014 15:54:38 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[06-Oct-2014 15:56:15 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[06-Oct-2014 15:56:15 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[06-Oct-2014 15:56:15 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[06-Oct-2014 15:59:00 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[06-Oct-2014 15:59:00 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[06-Oct-2014 15:59:00 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[06-Oct-2014 15:59:47 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[06-Oct-2014 15:59:47 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[06-Oct-2014 15:59:47 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[07-Oct-2014 10:32:23 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[07-Oct-2014 10:32:23 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[07-Oct-2014 10:32:23 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[07-Oct-2014 10:44:10 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[07-Oct-2014 10:44:10 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[07-Oct-2014 10:44:10 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[07-Oct-2014 10:44:15 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[07-Oct-2014 10:44:15 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[07-Oct-2014 10:44:15 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[07-Oct-2014 11:47:58 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[07-Oct-2014 11:47:58 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[07-Oct-2014 11:47:58 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[07-Oct-2014 11:53:32 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[07-Oct-2014 11:53:36 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[07-Oct-2014 11:53:36 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[09-Oct-2014 07:35:38 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[09-Oct-2014 07:35:38 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[09-Oct-2014 07:35:38 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[10-Oct-2014 06:38:31 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[10-Oct-2014 06:38:31 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[10-Oct-2014 06:38:31 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[10-Oct-2014 06:38:37 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[10-Oct-2014 06:38:37 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[10-Oct-2014 06:38:37 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[10-Oct-2014 06:38:37 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[10-Oct-2014 06:38:37 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[10-Oct-2014 06:38:37 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[10-Oct-2014 06:38:42 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[10-Oct-2014 06:38:42 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[10-Oct-2014 06:38:42 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[10-Oct-2014 06:38:45 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[10-Oct-2014 06:38:45 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[10-Oct-2014 06:38:45 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[13-Oct-2014 10:51:46 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[13-Oct-2014 10:51:46 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[13-Oct-2014 10:51:46 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[13-Oct-2014 10:58:25 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[13-Oct-2014 10:58:26 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[13-Oct-2014 10:58:26 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[13-Oct-2014 11:01:10 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[13-Oct-2014 11:01:10 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[13-Oct-2014 11:01:10 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[13-Oct-2014 11:09:15 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[13-Oct-2014 11:09:15 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[13-Oct-2014 11:09:15 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[14-Oct-2014 07:19:15 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[14-Oct-2014 07:19:15 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[14-Oct-2014 07:19:15 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[14-Oct-2014 08:58:09 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[14-Oct-2014 08:58:09 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[14-Oct-2014 08:58:09 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[14-Oct-2014 08:58:24 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[14-Oct-2014 08:58:24 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[14-Oct-2014 08:58:24 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[14-Oct-2014 08:59:01 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[14-Oct-2014 08:59:01 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[14-Oct-2014 08:59:01 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[14-Oct-2014 09:03:55 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[14-Oct-2014 09:03:55 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[14-Oct-2014 09:40:25 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[14-Oct-2014 09:40:25 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[14-Oct-2014 09:40:29 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[14-Oct-2014 09:40:29 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[14-Oct-2014 09:40:29 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[14-Oct-2014 09:40:29 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[14-Oct-2014 09:40:29 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[14-Oct-2014 09:40:29 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[17-Oct-2014 06:30:26 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[17-Oct-2014 06:30:26 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[17-Oct-2014 06:31:37 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[17-Oct-2014 06:31:37 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[19-Oct-2014 16:18:50 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[19-Oct-2014 16:18:50 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[19-Oct-2014 16:19:20 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[19-Oct-2014 16:19:20 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[19-Oct-2014 16:22:39 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[19-Oct-2014 16:22:39 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[19-Oct-2014 16:24:18 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[19-Oct-2014 16:24:18 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[19-Oct-2014 16:27:44 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[19-Oct-2014 16:27:44 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[19-Oct-2014 16:30:38 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[19-Oct-2014 16:30:38 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[19-Oct-2014 16:33:08 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[19-Oct-2014 16:33:08 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[19-Oct-2014 16:34:26 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[19-Oct-2014 16:34:26 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[19-Oct-2014 16:38:02 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[19-Oct-2014 16:38:02 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[19-Oct-2014 16:38:07 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[19-Oct-2014 16:38:07 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[19-Oct-2014 16:38:19 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[19-Oct-2014 16:38:19 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[19-Oct-2014 16:38:27 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[19-Oct-2014 16:38:27 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[19-Oct-2014 16:38:57 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[19-Oct-2014 16:38:57 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[19-Oct-2014 16:40:44 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[19-Oct-2014 16:40:44 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[19-Oct-2014 16:40:44 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[19-Oct-2014 16:40:44 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[19-Oct-2014 16:40:44 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[19-Oct-2014 16:40:44 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[19-Oct-2014 16:41:01 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[19-Oct-2014 16:41:01 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[20-Oct-2014 11:57:55 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[20-Oct-2014 11:57:55 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[20-Oct-2014 11:57:55 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[20-Oct-2014 11:57:56 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[20-Oct-2014 11:57:56 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[20-Oct-2014 11:57:56 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[20-Oct-2014 12:00:03 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[20-Oct-2014 12:00:03 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[20-Oct-2014 12:00:03 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[20-Oct-2014 12:00:04 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[20-Oct-2014 12:00:04 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[20-Oct-2014 12:00:04 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[20-Oct-2014 12:00:29 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[20-Oct-2014 12:00:29 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[20-Oct-2014 12:00:29 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[20-Oct-2014 12:00:31 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[20-Oct-2014 12:00:31 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[20-Oct-2014 12:00:31 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[21-Oct-2014 13:17:23 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[21-Oct-2014 13:17:23 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[21-Oct-2014 13:17:23 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[21-Oct-2014 13:17:26 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[21-Oct-2014 13:17:26 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[21-Oct-2014 13:18:05 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[21-Oct-2014 13:18:05 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[21-Oct-2014 13:20:37 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[21-Oct-2014 13:20:37 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[21-Oct-2014 13:23:20 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[21-Oct-2014 13:23:20 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[21-Oct-2014 13:25:11 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[21-Oct-2014 13:25:11 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[21-Oct-2014 13:27:03 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[21-Oct-2014 13:27:03 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[21-Oct-2014 13:29:33 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[21-Oct-2014 13:29:33 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[21-Oct-2014 13:33:10 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[21-Oct-2014 13:33:10 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[21-Oct-2014 13:33:10 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[21-Oct-2014 13:33:13 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[21-Oct-2014 13:33:13 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[21-Oct-2014 13:33:13 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[21-Oct-2014 13:33:13 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[21-Oct-2014 13:33:13 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[21-Oct-2014 13:33:13 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[21-Oct-2014 13:52:49 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[21-Oct-2014 13:52:50 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[21-Oct-2014 13:52:50 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[21-Oct-2014 13:53:13 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[21-Oct-2014 13:53:13 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[21-Oct-2014 13:53:13 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[21-Oct-2014 13:53:32 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[21-Oct-2014 13:53:32 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[21-Oct-2014 13:53:32 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[21-Oct-2014 13:53:40 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[21-Oct-2014 13:53:40 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[21-Oct-2014 13:53:40 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[21-Oct-2014 13:53:47 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[21-Oct-2014 13:53:47 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[21-Oct-2014 13:53:53 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[21-Oct-2014 13:53:53 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[21-Oct-2014 13:54:00 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[21-Oct-2014 13:54:06 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[21-Oct-2014 13:54:06 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[21-Oct-2014 13:54:06 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[21-Oct-2014 13:54:06 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[21-Oct-2014 13:54:06 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[24-Oct-2014 06:49:04 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[24-Oct-2014 06:49:04 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[24-Oct-2014 06:49:04 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[24-Oct-2014 06:49:04 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[24-Oct-2014 06:49:04 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[24-Oct-2014 06:49:58 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[24-Oct-2014 06:49:58 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[24-Oct-2014 06:49:58 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[24-Oct-2014 06:49:58 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[24-Oct-2014 06:49:58 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[24-Oct-2014 06:51:22 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[24-Oct-2014 06:51:22 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[24-Oct-2014 06:51:22 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[24-Oct-2014 06:51:22 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[24-Oct-2014 06:51:22 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[24-Oct-2014 06:52:44 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[24-Oct-2014 06:52:44 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[24-Oct-2014 06:52:44 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[24-Oct-2014 06:52:44 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[24-Oct-2014 06:52:44 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[24-Oct-2014 06:54:21 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[24-Oct-2014 06:54:21 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[24-Oct-2014 06:54:21 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[24-Oct-2014 06:54:21 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[24-Oct-2014 06:54:21 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[24-Oct-2014 06:56:39 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[24-Oct-2014 06:56:39 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[24-Oct-2014 06:56:39 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[24-Oct-2014 06:56:39 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[24-Oct-2014 06:58:18 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[24-Oct-2014 06:58:18 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[24-Oct-2014 06:58:18 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[24-Oct-2014 06:58:18 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[24-Oct-2014 07:03:21 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[24-Oct-2014 07:03:21 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[24-Oct-2014 07:03:21 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[26-Oct-2014 13:14:06 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[26-Oct-2014 13:14:06 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[26-Oct-2014 13:14:06 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[26-Oct-2014 13:14:17 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[26-Oct-2014 13:14:17 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[26-Oct-2014 13:14:18 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[27-Oct-2014 06:06:35 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[27-Oct-2014 06:06:35 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[27-Oct-2014 06:06:35 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[27-Oct-2014 06:07:53 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[27-Oct-2014 06:07:53 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[27-Oct-2014 06:07:53 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[27-Oct-2014 06:08:25 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[27-Oct-2014 06:08:25 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[27-Oct-2014 06:08:25 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[27-Oct-2014 08:16:41 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[27-Oct-2014 08:16:41 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[27-Oct-2014 08:16:41 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[27-Oct-2014 12:23:43 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[27-Oct-2014 12:23:43 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[27-Oct-2014 12:23:43 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[27-Oct-2014 12:25:53 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[27-Oct-2014 12:25:53 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[27-Oct-2014 12:25:59 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[27-Oct-2014 12:25:59 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[27-Oct-2014 12:26:08 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[28-Oct-2014 09:41:07 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[28-Oct-2014 09:41:12 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[28-Oct-2014 09:41:12 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[28-Oct-2014 09:41:12 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[28-Oct-2014 16:32:49 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[29-Oct-2014 11:58:24 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[29-Oct-2014 12:00:44 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[29-Oct-2014 12:06:26 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 574
+[30-Oct-2014 10:07:45 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[30-Oct-2014 10:07:45 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[30-Oct-2014 10:07:45 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[30-Oct-2014 10:07:45 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[03-Nov-2014 10:48:25 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[03-Nov-2014 10:48:25 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[03-Nov-2014 10:48:25 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[03-Nov-2014 10:48:25 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[17-Nov-2014 07:17:52 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[17-Nov-2014 07:17:52 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[17-Nov-2014 07:17:52 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[17-Nov-2014 07:17:52 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[17-Nov-2014 07:17:58 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[17-Nov-2014 07:17:58 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[17-Nov-2014 07:17:58 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[17-Nov-2014 07:17:58 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[20-Nov-2014 09:19:10 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[20-Nov-2014 09:19:10 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[20-Nov-2014 09:19:10 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[11-Dec-2014 11:13:15 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[12-Dec-2014 22:53:20 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[12-Dec-2014 23:10:00 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[12-Dec-2014 23:10:34 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 700
+[09-Jan-2015 16:45:15 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[10-Jan-2015 11:26:51 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 445
+[12-Jan-2015 11:10:21 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 453
+[12-Jan-2015 11:13:00 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 453
+[12-Jan-2015 11:13:08 Asia/Kuala_Lumpur] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/sassysigns/public_html/cms/delivery/customerList.php on line 453
+[02-Feb-2015 12:22:08 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/sassysigns/public_html/cms/delivery/customerList.php on line 786
+[02-Feb-2016 10:00:47 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[02-Feb-2016 10:02:21 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[02-Feb-2016 11:08:51 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[02-Feb-2016 11:51:45 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[02-Feb-2016 11:52:03 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[02-Feb-2016 12:22:04 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[02-Feb-2016 12:24:54 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[02-Feb-2016 12:24:55 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[03-Feb-2016 15:27:57 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[03-Feb-2016 15:28:05 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[03-Feb-2016 15:28:07 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[03-Feb-2016 15:28:09 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[03-Feb-2016 15:28:11 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[03-Feb-2016 15:28:12 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[03-Feb-2016 15:28:14 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[03-Feb-2016 15:28:15 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[03-Feb-2016 15:28:16 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Feb-2016 14:11:09 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Feb-2016 15:32:56 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Feb-2016 15:33:02 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Feb-2016 15:33:03 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Feb-2016 15:33:03 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Feb-2016 15:33:04 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Feb-2016 15:33:08 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Feb-2016 15:33:08 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Feb-2016 15:33:09 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Feb-2016 15:33:11 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Feb-2016 15:33:14 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Feb-2016 15:33:14 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Feb-2016 15:33:17 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Feb-2016 15:33:19 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Feb-2016 15:33:31 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Feb-2016 15:33:53 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Feb-2016 15:41:14 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Feb-2016 15:44:29 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Feb-2016 15:54:00 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Feb-2016 16:41:03 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Feb-2016 17:38:26 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Feb-2016 17:38:28 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Feb-2016 17:38:29 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Feb-2016 17:38:33 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Feb-2016 17:38:41 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Feb-2016 17:48:48 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Feb-2016 17:48:50 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Feb-2016 17:49:00 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Feb-2016 17:49:06 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Feb-2016 17:49:10 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Feb-2016 17:49:18 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Feb-2016 17:49:19 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Feb-2016 17:49:20 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[05-Feb-2016 09:17:28 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[05-Feb-2016 09:17:31 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[05-Feb-2016 09:19:18 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[05-Feb-2016 09:20:13 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[05-Feb-2016 09:20:31 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[05-Feb-2016 09:21:12 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[05-Feb-2016 12:41:49 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[05-Feb-2016 12:42:03 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[05-Feb-2016 12:42:18 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[05-Feb-2016 12:42:20 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[05-Feb-2016 14:37:33 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[05-Feb-2016 14:39:49 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[05-Feb-2016 14:39:49 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[05-Feb-2016 14:40:06 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[05-Feb-2016 16:22:00 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[05-Feb-2016 16:26:42 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[08-Feb-2016 06:49:00 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[08-Feb-2016 06:50:32 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[08-Feb-2016 12:46:03 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[09-Feb-2016 07:52:58 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[10-Feb-2016 06:31:02 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[11-Feb-2016 07:20:30 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[11-Feb-2016 07:24:09 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[11-Feb-2016 07:24:29 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[11-Feb-2016 07:25:26 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[11-Feb-2016 07:25:32 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[11-Feb-2016 07:45:34 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[11-Feb-2016 08:18:45 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[11-Feb-2016 08:18:49 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[17-Feb-2016 15:37:43 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[17-Feb-2016 15:38:29 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[17-Feb-2016 15:38:39 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[17-Feb-2016 15:38:41 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[17-Feb-2016 15:39:13 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[17-Feb-2016 15:39:13 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[17-Feb-2016 15:40:17 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[17-Feb-2016 15:43:02 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[17-Feb-2016 15:43:04 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[17-Feb-2016 16:00:31 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[17-Feb-2016 16:00:49 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[17-Feb-2016 16:24:42 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[17-Feb-2016 17:24:47 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[17-Feb-2016 17:24:56 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[17-Feb-2016 17:53:50 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[18-Feb-2016 15:06:04 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[18-Feb-2016 15:06:08 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[18-Feb-2016 15:11:37 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[18-Feb-2016 15:11:58 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[18-Feb-2016 15:12:33 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[18-Feb-2016 15:57:52 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[19-Feb-2016 09:57:53 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[19-Feb-2016 09:59:06 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[19-Feb-2016 10:07:33 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[19-Feb-2016 10:12:28 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[19-Feb-2016 10:12:42 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[19-Feb-2016 10:12:55 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[19-Feb-2016 10:13:01 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[19-Feb-2016 11:44:04 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[19-Feb-2016 14:15:34 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[22-Feb-2016 09:38:20 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[22-Feb-2016 09:42:43 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[25-Feb-2016 17:37:03 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Feb-2016 11:23:32 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Feb-2016 11:23:34 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Feb-2016 11:25:37 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Feb-2016 11:26:37 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Feb-2016 11:26:41 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Feb-2016 11:27:09 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Feb-2016 11:29:57 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Feb-2016 11:35:17 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Feb-2016 11:35:34 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Feb-2016 11:36:00 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Feb-2016 11:36:14 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Feb-2016 11:53:26 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Feb-2016 11:53:29 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Feb-2016 11:58:31 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Feb-2016 11:58:51 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Feb-2016 12:00:43 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Feb-2016 12:04:10 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Feb-2016 12:04:12 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Feb-2016 12:05:58 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Feb-2016 12:07:42 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Feb-2016 12:10:23 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Feb-2016 12:10:26 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Feb-2016 12:10:31 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Feb-2016 12:10:36 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Feb-2016 12:10:44 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Feb-2016 14:21:47 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Feb-2016 14:21:50 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Feb-2016 14:21:56 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Feb-2016 14:22:01 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Feb-2016 15:39:06 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Feb-2016 16:48:12 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Feb-2016 16:48:17 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[02-Mar-2016 16:17:18 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[02-Mar-2016 16:17:22 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[03-Mar-2016 12:03:26 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[03-Mar-2016 12:03:35 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[03-Mar-2016 12:03:37 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Mar-2016 07:17:37 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Mar-2016 07:30:02 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Mar-2016 07:54:04 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Mar-2016 07:54:11 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Mar-2016 07:54:40 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Mar-2016 07:54:42 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Mar-2016 07:54:45 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Mar-2016 07:54:49 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Mar-2016 07:54:54 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Mar-2016 07:57:24 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Mar-2016 07:57:27 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Mar-2016 07:57:37 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Mar-2016 07:57:44 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Mar-2016 07:58:29 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Mar-2016 08:23:51 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Mar-2016 08:24:46 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Mar-2016 08:24:56 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Mar-2016 09:03:03 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Mar-2016 09:03:05 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Mar-2016 09:04:33 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Mar-2016 09:04:40 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Mar-2016 09:07:14 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Mar-2016 09:07:16 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Mar-2016 09:14:53 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Mar-2016 09:14:55 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Mar-2016 10:01:27 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[04-Mar-2016 10:01:29 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[09-Mar-2016 06:33:09 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[09-Mar-2016 06:33:13 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[09-Mar-2016 14:20:19 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[09-Mar-2016 14:20:21 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[09-Mar-2016 14:20:38 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[09-Mar-2016 14:25:17 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[09-Mar-2016 14:25:51 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[09-Mar-2016 14:26:01 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[09-Mar-2016 14:36:27 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[09-Mar-2016 14:46:09 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[09-Mar-2016 14:47:21 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[09-Mar-2016 14:47:28 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[09-Mar-2016 14:47:29 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[09-Mar-2016 14:47:29 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[09-Mar-2016 14:47:30 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[09-Mar-2016 14:49:32 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[14-Mar-2016 06:35:22 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[14-Mar-2016 06:35:32 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[15-Mar-2016 08:31:07 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[15-Mar-2016 08:31:26 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[15-Mar-2016 08:31:53 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[15-Mar-2016 08:31:55 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[15-Mar-2016 08:31:57 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Mar-2016 10:09:20 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Mar-2016 10:10:27 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Mar-2016 10:10:29 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Mar-2016 10:10:36 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Mar-2016 10:12:37 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Mar-2016 10:12:39 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Mar-2016 10:13:10 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Mar-2016 10:13:11 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Mar-2016 10:13:16 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Mar-2016 10:13:20 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Mar-2016 10:14:42 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Mar-2016 10:18:10 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Mar-2016 10:18:20 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Mar-2016 10:18:28 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Mar-2016 10:18:37 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Mar-2016 14:54:31 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Mar-2016 14:54:39 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Mar-2016 14:57:16 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Mar-2016 15:09:21 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Mar-2016 15:09:28 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Mar-2016 15:14:26 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Mar-2016 15:14:28 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Mar-2016 15:14:37 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Mar-2016 15:14:38 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Mar-2016 15:14:40 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[24-Mar-2016 09:19:04 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[24-Mar-2016 09:19:04 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[29-Mar-2016 06:14:12 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[29-Mar-2016 08:08:18 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[29-Mar-2016 09:08:52 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[29-Mar-2016 09:09:07 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[29-Mar-2016 09:12:41 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[01-Apr-2016 06:58:56 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[01-Apr-2016 06:58:58 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[05-Apr-2016 14:16:59 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[05-Apr-2016 14:40:48 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[05-Apr-2016 14:40:50 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[05-Apr-2016 14:40:52 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[05-Apr-2016 14:40:53 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[06-Apr-2016 14:25:00 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[06-Apr-2016 14:25:01 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[06-Apr-2016 14:25:01 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[06-Apr-2016 14:25:02 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[06-Apr-2016 14:25:06 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[06-Apr-2016 14:25:08 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[06-Apr-2016 14:25:09 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[09-Apr-2016 15:18:09 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[09-Apr-2016 15:18:15 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[11-Apr-2016 10:01:26 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[11-Apr-2016 10:01:35 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[11-Apr-2016 10:01:57 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Apr-2016 12:23:15 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Apr-2016 12:23:17 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Apr-2016 12:23:43 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Apr-2016 12:23:45 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Apr-2016 12:23:54 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Apr-2016 12:24:01 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Apr-2016 12:24:03 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Apr-2016 12:26:23 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Apr-2016 12:40:01 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Apr-2016 12:40:21 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Apr-2016 12:40:31 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Apr-2016 12:40:34 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Apr-2016 12:40:35 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Apr-2016 12:40:37 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Apr-2016 12:40:38 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Apr-2016 14:30:03 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Apr-2016 14:30:04 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Apr-2016 14:30:47 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Apr-2016 14:31:08 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Apr-2016 14:31:18 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Apr-2016 14:31:20 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Apr-2016 14:31:21 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Apr-2016 14:31:23 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Apr-2016 14:31:53 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Apr-2016 14:33:59 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Apr-2016 14:34:00 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Apr-2016 14:34:05 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Apr-2016 14:34:06 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Apr-2016 14:34:54 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[21-Apr-2016 14:36:04 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 07:17:55 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 07:17:57 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 07:18:04 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 07:18:12 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 07:18:27 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 07:19:09 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 07:19:10 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 07:19:29 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 07:20:23 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 07:20:25 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 07:20:27 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 07:20:28 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 07:20:47 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 07:20:48 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 07:21:18 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 07:21:20 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 07:21:24 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 07:21:24 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 07:25:50 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 07:27:16 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 07:28:55 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 07:28:56 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 07:30:14 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 07:30:41 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 07:30:59 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 07:31:19 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 07:31:31 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 07:31:46 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 07:32:26 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 07:33:27 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 07:33:48 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 07:34:14 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 07:34:55 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 07:34:58 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 07:35:01 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 07:35:09 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 07:35:11 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 08:12:33 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 08:12:46 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 08:12:49 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 08:12:51 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 08:12:53 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 08:12:54 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 08:13:39 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 09:11:38 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 09:15:05 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 09:16:00 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 09:17:34 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 09:17:40 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 09:19:17 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 09:19:18 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 09:19:19 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 09:21:00 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 09:34:32 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 12:31:32 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 12:32:23 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 12:33:50 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 12:33:56 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 12:34:08 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 12:34:11 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 12:34:14 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 12:34:17 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 12:34:21 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 12:34:24 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 12:34:29 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 12:34:33 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 12:34:37 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[26-Apr-2016 12:34:44 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[27-Apr-2016 09:55:27 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[27-Apr-2016 09:55:29 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[27-Apr-2016 09:55:31 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[27-Apr-2016 09:56:39 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[02-May-2016 07:06:57 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[02-May-2016 07:06:59 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[02-May-2016 07:07:17 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[03-May-2016 09:31:53 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[03-May-2016 09:32:04 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[03-May-2016 09:58:06 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[03-May-2016 09:58:10 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[03-May-2016 10:17:47 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[03-May-2016 10:17:48 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[03-May-2016 11:31:49 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[03-May-2016 11:31:52 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[06-May-2016 14:34:39 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[06-May-2016 14:34:42 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[06-May-2016 14:35:01 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[06-May-2016 14:35:19 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[06-May-2016 14:36:13 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[06-May-2016 14:36:25 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[06-May-2016 14:36:48 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[06-May-2016 14:37:32 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[06-May-2016 14:37:41 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[06-May-2016 14:38:48 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[06-May-2016 14:39:06 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[06-May-2016 14:39:12 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[06-May-2016 15:20:52 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[06-May-2016 15:22:02 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[06-May-2016 15:22:24 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[06-May-2016 15:30:08 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[10-May-2016 08:23:24 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[10-May-2016 08:23:32 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[10-May-2016 08:23:34 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[10-May-2016 08:23:34 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[10-May-2016 08:23:52 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[10-May-2016 14:01:15 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[10-May-2016 14:01:27 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
+[10-May-2016 14:01:31 Asia/Kuala_Lumpur] PHP Warning:  Module 'zip' already loaded in Unknown on line 0
