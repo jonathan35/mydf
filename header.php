@@ -32,7 +32,7 @@
             <div class="d-none d-md-inline col-md"></div>                        
             <div class="col-12 col-md p-2">
 
-            <a href="#<?php echo ROOT?>products">Products</a>
+            <a href="#<?php echo ROOT?>products">MYDF Ranking</a>
             </div>            
             <div class="col-12 col-md p-2">
             <a href="#<?php echo ROOT?>news">News</a>

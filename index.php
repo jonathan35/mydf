@@ -77,7 +77,7 @@ include_once 'head.php';
                             $bg = 'background-image: linear-gradient(to right top, '.$cl[rand(0,8)].', '.$cl2[rand(0,8)].');';
                             ?>
                             <div class="col-12 col-md-4">
-                                <div class="choose-block" style="<?php echo $bg?>; opacity:1; background: url('<?php echo $home_block['background']?>'); background-size:cover; background-position:center;">
+                                <div class="choose-block" style="<?php echo $bg?>; opacity:1; background: url('<?php echo $home_block['background']?>'); background-size:cover; background-position:center; line-height:1;">
                                     <?php echo $home_block['block_text']?>
                                 </div>
                             </div>
